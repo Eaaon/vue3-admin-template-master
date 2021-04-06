@@ -10,7 +10,7 @@ English | [简体中文](./README-zh.md)
 git clone https://github.com/Eaaon/vue3-admin-template-master.git
 
 # enter the project directory
-cd vue-admin-template
+cd vue3-admin-template
 
 # install dependency
 npm install
