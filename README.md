@@ -1,6 +1,6 @@
 # vue3-admin-template-master
 
-简体中文 | [English] (./README-en.md)
+简体中文 | [English](./README-en.md)
 
 > 这是一个极简的 vue admin 管理后台。它只包含了 element-plus UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
